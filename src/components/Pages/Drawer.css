@@ -1,0 +1,31 @@
+.div1 {
+    width: 70%;
+    background: rgb(34 197 94);
+    overflow-x: hidden;
+    text-align: center;
+    opacity: 0.9;
+    white-space: nowrap;
+    transition-duration: 200;
+    height: 100%;
+    transition: all 200ms linear;
+  }
+  
+  
+
+
+  .div2 {
+    width: 100%;
+    background: transparent;
+    overflow-x: hidden;
+    text-align: center;
+    opacity: 0.9;
+    height: 100%;
+    white-space: nowrap;
+    transition: all 200ms linear;
+  }
+  
+  .myclosed {
+    width: 0%;
+    transition: all 200ms linear;
+  }
+  
